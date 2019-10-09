@@ -31,5 +31,6 @@ public void veryifyElements() {
 @AfterMethod
 public void closeBrowser() {
 	driver.close();
+	//close browser
 }
 }
