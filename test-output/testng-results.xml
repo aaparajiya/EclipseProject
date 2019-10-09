@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21040" started-at="2019-10-09T09:21:56Z" finished-at="2019-10-09T09:22:17Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21040" started-at="2019-10-09T09:21:56Z" finished-at="2019-10-09T09:22:17Z">
+      <class name="com.OnlineShop.UserSmokeTest">
+        <test-method status="PASS" signature="launchBroswer()[pri:0, instance:com.OnlineShop.UserSmokeTest@3532ec19]" name="launchBroswer" is-config="true" duration-ms="5425" started-at="2019-10-09T09:21:56Z" finished-at="2019-10-09T09:22:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBroswer -->
+        <test-method status="PASS" signature="veryifyLaunchApp()[pri:1, instance:com.OnlineShop.UserSmokeTest@3532ec19]" name="veryifyLaunchApp" duration-ms="1736" started-at="2019-10-09T09:22:02Z" finished-at="2019-10-09T09:22:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- veryifyLaunchApp -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.OnlineShop.UserSmokeTest@3532ec19]" name="closeBrowser" is-config="true" duration-ms="4309" started-at="2019-10-09T09:22:04Z" finished-at="2019-10-09T09:22:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="launchBroswer()[pri:0, instance:com.OnlineShop.UserSmokeTest@3532ec19]" name="launchBroswer" is-config="true" duration-ms="3582" started-at="2019-10-09T09:22:08Z" finished-at="2019-10-09T09:22:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBroswer -->
+        <test-method status="PASS" signature="veryifyElements()[pri:2, instance:com.OnlineShop.UserSmokeTest@3532ec19]" name="veryifyElements" duration-ms="1806" started-at="2019-10-09T09:22:11Z" finished-at="2019-10-09T09:22:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- veryifyElements -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.OnlineShop.UserSmokeTest@3532ec19]" name="closeBrowser" is-config="true" duration-ms="4130" started-at="2019-10-09T09:22:13Z" finished-at="2019-10-09T09:22:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.OnlineShop.UserSmokeTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
